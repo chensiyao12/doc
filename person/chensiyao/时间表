@@ -1,0 +1,19 @@
+4.1-4.7   机器学习（周志华）1-2章，概率论与数理统计,matlab
+4.8-4.14  机器学习（周志华）第3章，线性代数
+4.15-4.21 机器学习（周志华) 4-5章，学习涉及的高数知识
+4.22-4.28 机器学习（周志华）6-7章，python
+4.29-5.5  机器学习（周志华）8-9章,python,任务1.2 caffe训练和预测实例
+5.6-5.12  机器学习（周志华）第10章,C++
+          任务1.3 caffe官方实例代码理解和运行 看懂ImageNet tutorial，CIFAR-10 tutorial
+5.13-5.19 学习C++，任务1.3 caffe官方实例代码理解和运行 
+          看懂Fine-tuning for style recognition
+          看懂并运行LeNet MNIST Tutorial
+          看懂Fine-tune the ImageNet-trained CaffeNet on the "Flickr Style" dataset.
+5.20-5.26 学习C++，任务1.3 caffe官方实例代码理解和运行
+          看懂Feature extraction with Caffe C++ code 代码，extract_features.cpp，运行结果正确，代码添加详细注释
+          看懂CaffeNet C++ Classification example代码classification.cpp运行结果正确，代码添加详细注释
+5.27-6.2  学习Python，任务1.4caffe官方实例代码理解和运行（python部分）
+          找两个python调用caffe的实例，调试成功并运行结果正确，单步调试python代码
+6.3-6.9   任务3.1 opencv的编译，学习opencv入门教程+Linux
+6.10-6.16 任务3.2 opencv使用 图像缩放、边缘检测、人脸检测，学习Linux
+6.17-6.23 任务3.2 opencv使用 行人检测、目标跟踪、特征点匹配等，学习Linux
